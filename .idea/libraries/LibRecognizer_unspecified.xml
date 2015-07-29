@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="LibRecognizer-unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/App/build/intermediates/exploded-aar/FormulApp/LibRecognizer/unspecified/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/App/build/intermediates/exploded-aar/FormulApp/LibRecognizer/unspecified/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

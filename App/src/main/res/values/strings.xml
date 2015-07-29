@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FormulApp</string>
+    <string name="UseWith">Use with</string>
+    <string name="StartScanning">Start scanning</string>
+     <string name="version">Version</string>
+    <string name="title_activity_login">Inicio de Sesión</string>
+
+    <string name="hello_world"></string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu_formularios">Menu Principal</string>
+    <string name="title_activity_splash_screen">FormulApp</string>
+    <string name="title_activity_formularios_activos">Lista de Formularios</string>
+    <string name="title_activity_formulario">Formulario</string>
+    <string name="title_activity_nueva_actividad">nuevaACtividad</string>
+    <string name="title_activity_dialog_ubicacion">Map</string>
+    <string name="title_activity_retornoactivity">retornoactivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_formularios_enviados">Formularios Enviados</string>
+</resources>

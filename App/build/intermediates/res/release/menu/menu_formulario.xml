@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="reportsas.com.formulapp.Formulario">
+
+    <item android:id="@+id/cam"
+        android:icon="@drawable/camera_icon"
+        android:title="Captura de Imagen"
+        android:orderInCategory="1"
+        android:visible="false"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/scan"
+        android:icon="@drawable/bcode_icon"
+        android:title="Lectura de Codigo"
+        android:orderInCategory="2"
+        android:visible="false"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/gps"
+        android:title="Ubicacion"
+        android:icon="@drawable/gps_icon"
+        android:orderInCategory="3"
+        android:visible="false"
+        app:showAsAction="ifRoom"/>
+
+
+</menu>
+<!-- From: file:/C:/Users/rytscc/AndroidStudioProjects/FormulApp/App/src/main/res/menu/menu_formulario.xml -->

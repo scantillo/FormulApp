@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="reportsas.com.formulapp.FormulariosActivos">
+    <item android:id="@+id/upd"
+    android:icon="@drawable/update"
+    android:title="Actualizar Formularios"
+    android:orderInCategory="1"
+    android:visible="true"
+    app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/menu3_buscar"
+        android:title="buscar"
+        android:icon="@drawable/search"
+        app:showAsAction="ifRoom|collapseActionView"
+        app:actionViewClass="android.support.v7.widget.SearchView"/>
+
+    <item android:id="@+id/back"
+        android:icon="@drawable/back"
+        android:title="Atras"
+        android:orderInCategory="3"
+        android:visible="false"
+        app:showAsAction="ifRoom"/>
+
+</menu>
+<!-- From: file:/C:/Users/rytscc/AndroidStudioProjects/FormulApp/App/src/main/res/menu/menu_formularios_activos.xml -->

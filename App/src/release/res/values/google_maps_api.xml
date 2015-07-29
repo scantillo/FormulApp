@@ -1,0 +1,18 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=EA:87:CD:74:7C:48:3D:DD:F9:68:2A:5A:63:2D:80:C7:80:15:6F:7E%3Breportsas.com.formulapp
+
+    You can also add your credentials to an existing key, using this line:
+    EA:87:CD:74:7C:48:3D:DD:F9:68:2A:5A:63:2D:80:C7:80:15:6F:7E;reportsas.com.formulapp
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">
+        AIzaSyDlMKpty5ovzbGsXZcpqYsnNzCUiOW9Hn4
+    </string>
+</resources>
